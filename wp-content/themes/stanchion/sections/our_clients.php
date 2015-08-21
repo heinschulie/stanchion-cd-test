@@ -25,8 +25,8 @@
 
           <a  data-scrollreveal="enter top after 0s over 0.4s" href="http://localhost/stanchion/m-s/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Marks.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/Marks.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Marks-Spencers logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Marks.png" class="attachment-zerif_project_photo wp-post-image" alt="Marks-Spencers logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Marks-Spencers logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" class="attachment-zerif_project_photo wp-post-image" alt="Marks-Spencers logo" /&gt;</noscript>
 
               <div class="project-info">
 
