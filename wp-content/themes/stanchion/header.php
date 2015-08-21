@@ -139,12 +139,12 @@ endif; ?>
 
 				<ul class="nav navbar-nav navbar-right responsive-nav main-nav-list initial-navlist" >
 					<li class="page_item page-item-12"><a href="http://batstone-stanchiondev.azurewebsites.net/careers/">Careers</a></li>
-					<li class="page_item page-item-12"><a href="/stanchion/team">Team</a></li>
+					<li class="page_item page-item-12"><a href="http://batstone-stanchiondev.azurewebsites.net/team/">Team</a></li>
 					<li class="page_item page-item-12"><a href="/stanchion/#whatwedo">What We Do</a></li>
 					<li class="page_item page-item-12"><a href="/stanchion/#results">Results</a></li>
 					<li class="page_item page-item-12"><a href="/stanchion/#clients">Clients</a></li>
 					<li class="page_item page-item-12"><a href="/stanchion/#howwethink">How We Think</a></li>
-					<li class="page_item page-item-12"><a href="/stanchion/#aboutus">About Us</a></li>	
+					<li class="page_item page-item-12"><a href="http://batstone-stanchiondev.azurewebsites.net/#aboutus">About Us</a></li>	
 					<li class="page_item page-item-12"><a href="/stanchion/#contact">Contact</a></li>	
 					<li><a target="_blank" href="'.esc_url(__($zerif_socials_twitter,'zerif-lite')).'"><i class="fa fa-twitter"></i></a></li>	
 					<li><a target="_blank" href="'.esc_url(__($zerif_socials_linkedin,'zerif-lite')).'"><i class="fa fa-linkedin"></i></a></li>				
