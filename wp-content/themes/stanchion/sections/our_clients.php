@@ -60,8 +60,8 @@
 
           <a data-scrollreveal="enter top after 0s over 0.6s" href="http://localhost/stanchion/woolworths-2/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Woolworths.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/Woolworths.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Woolworths logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Woolworths.png" class="attachment-zerif_project_photo wp-post-image" alt="woolworths logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Woolworths.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Woolworths.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Woolworths logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Woolworths.png" class="attachment-zerif_project_photo wp-post-image" alt="woolworths logo" /&gt;</noscript>
 
               <div class="project-info">
                 <div class="project-details">
@@ -89,8 +89,8 @@
 
           <a  data-scrollreveal="enter top after 0s over 0.8s"  href="http://localhost/stanchion/rakbank/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/RAK-bank.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/RAK-bank.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="rakbank logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/RAK-bank.png" class="attachment-zerif_project_photo wp-post-image" alt="rakbank logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/RAK-bank.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/RAK-bank.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="rakbank logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/RAK-bank.png" class="attachment-zerif_project_photo wp-post-image" alt="rakbank logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -125,8 +125,8 @@
 
           <a data-scrollreveal="enter top after 0s over 1s" href="http://localhost/stanchion/sainsburys/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Sainsbury.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/Sainsbury.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Sainsburys logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Sainsbury.png" class="attachment-zerif_project_photo wp-post-image" alt="Sainsburys logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Sainsbury.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Sainsbury.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Sainsburys logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Sainsbury.png" class="attachment-zerif_project_photo wp-post-image" alt="Sainsburys logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -160,8 +160,8 @@
 
           <a data-scrollreveal="enter top after 0.2s over 0.4s" href="http://localhost/stanchion/mashreq-2/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/mashreq.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/mashreq.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="mashreg logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/mashreq.png" class="attachment-zerif_project_photo wp-post-image" alt="mashreg logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/mashreq.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/mashreq.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="mashreg logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/mashreq.png" class="attachment-zerif_project_photo wp-post-image" alt="mashreg logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -195,8 +195,8 @@
 
           <a data-scrollreveal="enter top after 0.2s over 0.6s" href="http://localhost/stanchion/nedbank-2/" class="more">
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Nedbank.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/Nedbank.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="Nedbank logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Nedbank.png" class="attachment-zerif_project_photo wp-post-image" alt="Nedbank logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Nedbank.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Nedbank.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="Nedbank logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Nedbank.png" class="attachment-zerif_project_photo wp-post-image" alt="Nedbank logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -231,8 +231,8 @@
           <a data-scrollreveal="enter top after 0.2s over 0.8s" href="http://localhost/stanchion/interswitch-2" class="more">
 
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/interswitch.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/interswitch.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="interswitch logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/interswitch.png" class="attachment-zerif_project_photo wp-post-image" alt="interswitch logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/interswitch.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/interswitch.png" class="attachment-zerif_project_photo wp-post-image     lazyloaded" alt="interswitch logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/interswitch.png" class="attachment-zerif_project_photo wp-post-image" alt="interswitch logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -282,8 +282,8 @@
           <a data-scrollreveal="enter top after 0.2s over 1s" href="http://localhost/stanchion/budapest-bank-2/" class="more">
 
 
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Budapest-Bank.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/Budapest-Bank.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="budapestbank logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/Budapest-Bank.png" class="attachment-zerif_project_photo wp-post-image" alt="budapestbank logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Budapest-Bank.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Budapest-Bank.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="budapestbank logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Budapest-Bank.png" class="attachment-zerif_project_photo wp-post-image" alt="budapestbank logo" /&gt;</noscript>
 
               <div class="project-info">
 
