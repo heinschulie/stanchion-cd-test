@@ -25,8 +25,8 @@
 
           <a  data-scrollreveal="enter top after 0s over 0.4s" href="http://localhost/stanchion/m-s/" class="more">
 
-            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Marks-Spencers logo">
-              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/images/clients/Marks.png" class="attachment-zerif_project_photo wp-post-image" alt="Marks-Spencers logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Marks.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Marks.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Marks-Spencers logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/Marks.png" class="attachment-zerif_project_photo wp-post-image" alt="Marks-Spencers logo" /&gt;</noscript>
 
               <div class="project-info">
 
@@ -326,8 +326,8 @@
 
         <li data-sr-init="true" data-sr-complete="true">
           <a data-scrollreveal="enter top after 0.5s over 0.4s" href="http://localhost/stanchion/coles-2" class="more">
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/coles.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/coles.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Coles logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/coles.png" class="attachment-zerif_project_photo wp-post-image" alt="Coles logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/coles.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/coles.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="Coles logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/coles.png" class="attachment-zerif_project_photo wp-post-image" alt="Coles logo" /&gt;</noscript>
 
               <div class="project-info">
                 <div class="project-details">
@@ -351,8 +351,8 @@
 
         <li data-sr-init="true" data-sr-complete="true">
           <a data-scrollreveal="enter top after 0.5 over 0.6s" href="http://localhost/stanchion/bank-muscat-2/" class="more">
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/bank-muscat.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/bank-muscat.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="bankmuscat logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/bank-muscat.png" class="attachment-zerif_project_photo wp-post-image" alt="bankmuscat logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/bank-muscat.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/bank-muscat.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="bankmuscat logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/bank-muscat.png" class="attachment-zerif_project_photo wp-post-image" alt="bankmuscat logo" /&gt;</noscript>
 
               <div class="project-info">
                 <div class="project-details">
@@ -372,8 +372,8 @@
 
         <li data-sr-init="true" data-sr-complete="true">
           <a data-scrollreveal="enter top after 0.5s over 0.8s" href="http://localhost/stanchion/aci-2/" class="more">
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/ACI.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/ACI.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="aci logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/ACI.png" class="attachment-zerif_project_photo wp-post-image" alt="aci logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/ACI.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/ACI.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="aci logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/ACI.png" class="attachment-zerif_project_photo wp-post-image" alt="aci logo" /&gt;</noscript>
               <div class="project-info">
                 <div class="project-details">
                   <h5 class="white-text orange-border-bottom">
@@ -392,8 +392,8 @@
 
         <li data-sr-init="true" data-sr-complete="true">
           <a data-scrollreveal="enter top after 0.5s over 1s" href="http://localhost/stanchion/american-express-2/" class="more">
-            <img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/American-Express.png" data-lazy-src="http://localhost/stanchion/wp-content/uploads/2015/08/American-Express.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="American Express Logo">
-              <noscript>&lt;img width="285" height="214" src="http://localhost/stanchion/wp-content/uploads/2015/08/American-Express.png" class="attachment-zerif_project_photo wp-post-image" alt="American Express Logo" /&gt;</noscript>
+            <img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/American-Express.png" data-lazy-src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/American-Express.png" class="attachment-zerif_project_photo wp-post-image lazyloaded" alt="American Express Logo">
+              <noscript>&lt;img width="285" height="214" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/uploads/2015/08/American-Express.png" class="attachment-zerif_project_photo wp-post-image" alt="American Express Logo" /&gt;</noscript>
               <div class="project-info">
                 <div class="project-details">
                   <h5 class="white-text orange-border-bottom">
