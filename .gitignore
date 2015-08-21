@@ -229,3 +229,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+# WORDPRESS IGNORES 
+wp-config.php
+wp-content/uploads
