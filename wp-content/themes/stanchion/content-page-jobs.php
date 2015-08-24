@@ -30,6 +30,16 @@
 
 					echo '</div>';
 
+          echo '<div class="section-description">';
+
+						$zerif_ourjobs_title = get_theme_mod('zerif_ourjobs_description',__('Stanchion employs talented people looking to explore and innovate. We are looking for people who want to challenge and stretch themselves to find and implement radical improvements to the payments space. <br/> Sound good? Then join us. Below are the roles we are currently looking to fill but if you don’t find something immediately please send a two page CV to us at careers@stanchionpayments.com with a paragraph on what you would like to do with us.','stanchion'));
+					
+						if( !empty($zerif_ourjobs_title) ):
+							echo '<h4 class="stanchion-job-description">'.__($zerif_ourjobs_title,'stanchion').'</h4>';
+						endif;
+
+					echo '</div>';
+
 					echo '<div class="row" data-scrollreveal="enter left after 0s over 0.8s">';
 						dynamic_sidebar( 'sidebar-ourjobs' );
 					echo '</div> ';

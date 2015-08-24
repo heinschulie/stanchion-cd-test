@@ -319,14 +319,14 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 
 		  ?>
 
-      <?php		    $zerif_ourfocus_subtitle = get_theme_mod('zerif_ourfocus_subtitle',__('By giving clients the correct data, and access to Stanchion\'s decades of experience, they can make the right decisions - transforming information into action.','zerif-lite'));
+      <!--<?php		    $zerif_ourfocus_subtitle = get_theme_mod('zerif_ourfocus_subtitle',__('By giving clients the correct data, and access to Stanchion\'s decades of experience, they can make the right decisions - transforming information into action.','zerif-lite'));
 
 		    if( !empty($zerif_ourfocus_subtitle) ):
     
 			    echo '<h4 class="stanchion-description white-text" id="stanchion-padding-bottom">'.__($zerif_ourfocus_subtitle,'zerif-lite').'</h4>';
 
 		    endif;
-	    ?>
+	    ?>-->
       
       <?php 
       
