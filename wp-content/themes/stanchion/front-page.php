@@ -268,7 +268,7 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
   <!--A RIBBON!-->
   <section class="howwethink" id="howwethink">
     <div class="section-header separator-one" >
-      <?php		    $zerif_ourfocus_title = get_theme_mod('zerif_ourfocus_title',__('HOW WE THINK','zerif-lite'));
+      <?php		    $zerif_ourfocus_title = get_theme_mod('zerif_ourfocus_title',__('LATEST NEWS','zerif-lite'));
 		
 		    if( !empty($zerif_ourfocus_title) ):
 			    echo '<h5 class="stanchion-header white-text">'.__($zerif_ourfocus_title,'zerif-lite').'</h5>';
