@@ -5251,4 +5251,11 @@ h2.stanchion-team-title{
     margin: 30px 30px 0 30px;
 }
 
+#carousel-homepage-latestnews .carousel-inner .item .latestnews-title a {
+    text-transform: uppercase;
+    color: #FFF; 
+    font-weight: 700;
+    display: block;
+}
+
 /*STANCHION*/
