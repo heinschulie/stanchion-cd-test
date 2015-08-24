@@ -4985,8 +4985,12 @@ h3.stanchion-description.white-text, h2.stanchion-description.white-text, h1.sta
     padding-bottom: 50px;
 }
 
+ul{
+    list-style: none;
+}
+
 @media screen and (min-width: 768px) {	
-   
+
     .blog-container{
         position: relative;
         background-color: #FFF; 
@@ -5019,6 +5023,7 @@ h3.stanchion-description.white-text, h2.stanchion-description.white-text, h1.sta
       height:100%;
       float:left;
       position:relative;
+      margin-bottom: 20px;
     }
 
     li.blog-list-item p{
