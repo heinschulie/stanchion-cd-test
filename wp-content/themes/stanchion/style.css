@@ -2239,8 +2239,8 @@ ul.nav > li.current_page_item.current > a:before {
 	position: absolute;
 	padding: 15px;
 	top: -200px;
-	left: 0;
-	width: 100%;
+	left: 13%;
+	width: 74%;
 	height: 190px;
 	-webkit-transition: all 500ms;
 	transition: all 500ms;
@@ -4898,7 +4898,7 @@ h2.stanchion-slogan{
     font-size: 45px;
 }
 .separator-one .stanchion-slogan{
-    padding-bottom: 50px;
+    padding-bottom: 75px;
 }
 
 
