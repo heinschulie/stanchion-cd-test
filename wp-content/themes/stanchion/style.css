@@ -4905,6 +4905,7 @@ h3.white-text, h2.white-text, h1.white-text {
 
 h6.stanchion-description, h5.stanchion-description, h4.stanchion-description,
 h3.stanchion-description, h2.stanchion-description, h1.stanchion-description {
+    text-align: left;
     color: #404040;
 }
 
