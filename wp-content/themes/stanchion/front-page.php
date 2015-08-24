@@ -265,7 +265,58 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 
 <div id="content" class="site-content">
 
+  <!--A RIBBON!-->
+  <section id="stanchion-highlights">
+    <div class="section-header separator-one" >
+      <?php		    $zerif_ourfocus_title = get_theme_mod('zerif_ourfocus_title',__('HOW WE THINK','zerif-lite'));
+		
+		    if( !empty($zerif_ourfocus_title) ):
+			    echo '<h5 class="stanchion-header white-text">'.__($zerif_ourfocus_title,'zerif-lite').'</h5>';
+		    endif;	
+		  ?>
+
+      <?php		    $zerif_ourfocus_subtitle = get_theme_mod('zerif_ourfocus_subtitle',__('Speed. Security. Measurability. Foresight.','zerif-lite'));
+
+		    if( !empty($zerif_ourfocus_subtitle) ):
+
+			    echo '<h2 class="stanchion-slogan white-text">'.__($zerif_ourfocus_subtitle,'zerif-lite').'</h2>';
+
+		    endif;
+
+		  ?>
+      <ul class="blog-unordered-list">
+        <?php // Display blog posts on any page @ http://m0n.co/l
+		    $temp = $wp_query; $wp_query= null;
+		    $wp_query = new WP_Query(); 
+        $wp_query->query('showposts=7&tag=white-paper' . '&paged='.$paged);
+		    while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
+        <li class="blog-list-item">
+          <a href=""
+            <?php the_permalink(); ?>" title="Read more">
+            <?php the_post_thumbnail(); ?>
+          </a>
+          <div class="col-md-9 post-text">
+            <h5>
+              <?php the_title(); ?>
+            </h5>
+            <?php the_excerpt(); ?>
+          </div>
+        </li>
+        <!--<div>
+          <a href="<?php the_permalink(); ?>" title="Read more"><?php the_title(); ?>
+            <?php the_post_thumbnail(); ?>
+      
+            <h6>Hello this thing</h6>
+          </a>
+        </div>-->
+        <?php endwhile; ?>
+      </ul>
+    </div>
+  </section>
+  
 <?php
+
+  
 
 	/* WHAT WE DO SECTION */
 
