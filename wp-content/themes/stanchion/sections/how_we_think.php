@@ -1,6 +1,6 @@
 
 <div class="blog-container">
-  <div class="col-md-4 list-item-container">
+  <div class="col-md-6 list-item-container">
     <ul class="blog-unordered-list">
       <?php // Display blog posts on any page @ http://m0n.co/l
 		    $temp = $wp_query; $wp_query= null;
@@ -44,7 +44,7 @@
       <?php endwhile; ?>
     </ul>
   </div>
-  <div class="col-md-4 list-item-container">
+  <div class="col-md-2 list-item-container">
     <aside id="archives" class="widget">
       <h1 class="widget-title">
         <?php _e( 'Archives', 'zerif-lite' ); ?>
