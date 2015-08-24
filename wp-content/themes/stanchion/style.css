@@ -4897,6 +4897,10 @@ h3.stanchion-slogan, h2.stanchion-slogan, h1.stanchion-slogan {
 h2.stanchion-slogan{
     font-size: 45px;
 }
+.separator-one .stanchion-slogan{
+    padding-bottom: 50px;
+}
+
 
 h6.white-text, h5.white-text, h4.white-text,
 h3.white-text, h2.white-text, h1.white-text {
@@ -5232,5 +5236,15 @@ h2.stanchion-team-title{
 }
 /**
 
+/*----  STANCHION SECTION:  HOME > LATEST NEWS   ----*/
+.latest-news {
+	padding-bottom: 66px;
+	padding-top: 100px;
+	background: #FFFFFF;
+}
+.latestnews-img img{
+    width: 150px;
+    height: 150px;
+}
 
 /*STANCHION*/
