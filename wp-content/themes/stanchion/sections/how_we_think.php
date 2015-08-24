@@ -12,7 +12,7 @@
           <?php the_permalink(); ?>" title="Read more">
           <?php the_post_thumbnail(); ?>
         </a>
-        <div class="col-md-9 post-text">
+        <div class="col-md-8 post-text">
           <h5>
             <?php the_title(); ?>
           </h5>
@@ -30,11 +30,11 @@
         $wp_query->query('showposts=7&tag=white-paper' . '&paged='.$paged);
 		    while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
       <li class="blog-list-item">
-        <a class="col-md-3 blog-image-link" href=""
+        <a class="blog-image-link" href=""
           <?php the_permalink(); ?>" title="Read more">
           <?php the_post_thumbnail(); ?>
         </a>
-        <div class="col-md-9 post-text">
+        <div class="col-md-8 post-text">
           <h5>
             <?php the_title(); ?>
           </h5>
