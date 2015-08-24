@@ -4998,12 +4998,12 @@ h3.stanchion-description.white-text, h2.stanchion-description.white-text, h1.sta
     }
 
     ul.blog-unordered-list{
-        -moz-column-count: 2;
+        /*-moz-column-count: 2;
         -moz-column-gap: 20px;
         -webkit-column-count: 2;
         -webkit-column-gap: 20px;
         column-count: 2;
-        column-gap: 20px; 
+        column-gap: 20px;*/ 
     }
 
     /*Reset the min and max for img*/ 
