@@ -14,7 +14,7 @@
 					
 					echo '<div class="carousel-inner" role="listbox">';
 
-						$zerif_latest_loop = new WP_Query( array( 'post_type' => 'post', 'posts_per_page' => $zerif_total_posts, 'tag=latestnews', 'order' => 'DESC','ignore_sticky_posts' => true ) );
+						$zerif_latest_loop = new WP_Query( array( 'post_type' => 'post', 'posts_per_page' => $zerif_total_posts, 'tag' => array( 'latestnews' ), 'order' => 'DESC','ignore_sticky_posts' => true ) );
 
 						$newSlideActive = '<div class="item active">';
 						$newSlide 		= '<div class="item">';
