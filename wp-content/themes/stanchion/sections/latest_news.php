@@ -4,7 +4,7 @@
 	
 	if( !empty($zerif_total_posts) && ($zerif_total_posts > 0) ):
 	
-		echo '<section class="latest-news" id="latest_news">';
+		
 		
 			echo '<div class="container">';
 
@@ -34,7 +34,7 @@
 										echo $newSlide;
 									}
 								
-									echo '<div class="col-sm-3 latestnews-box">';
+									echo '<div class="col-sm-4 latestnews-box">';
 
 										echo '<div class="latestnews-img">';
 										
@@ -54,8 +54,6 @@
 
 											echo '<h5 class="latestnews-title"><a href="'.get_permalink().'" title="'.get_the_title().'">'.get_the_title().'</a></h5>';
 
-											the_excerpt();
-
 										echo '</div>';
 
 									echo '</div>';
@@ -69,7 +67,7 @@
 								if( $i_latest_posts == 1 ) $active = 'active'; else $active = ''; 
 		
 								echo '<div class="item '.$active.'">';
-									echo '<div class="col-md-3 latestnews-box">';
+									echo '<div class="col-md-4 latestnews-box">';
 										echo '<div class="latestnews-img">';
 											echo '<a href="'.get_permalink().'" title="'.get_the_title().'">';
 												if ( has_post_thumbnail() ) :
@@ -81,7 +79,6 @@
 										echo '</div>';
 										echo '<div class="latesnews-content">';
 											echo '<h5 class="latestnews-title"><a href="'.get_the_permalink().'" title="'.get_the_title().'">'.get_the_title().'</a></h5>';
-											the_excerpt();
 										echo '</div>';
 									echo '</div>';
 								echo '</div>';
@@ -114,7 +111,6 @@
 				echo '</div>';
 
 			echo '</div>';
-		echo '</section>';
 
 endif; ?>
 
