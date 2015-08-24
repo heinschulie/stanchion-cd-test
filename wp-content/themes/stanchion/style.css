@@ -5028,24 +5028,23 @@ h3.stanchion-description.white-text, h2.stanchion-description.white-text, h1.sta
     }
 
     li.blog-list-item img{
-      width: 100px;
-      height: 100%; 
+      width: 30%;
       float: left;
     }
 
-    li.blog-list-item:first-child{
+    ul.blog-unordered-list li.blog-list-item:first-child{
       width: 100%;
       padding-bottom: 15px;
     }
     
-    li.blog-list-item:first-child a img{
+    ul.blog-unordered-list li.blog-list-item:first-child a img{
       width: 100%; 
       height: 100%; 
       position: relative;
       float: none;
     }
 
-    li.blog-list-item:first-child div.post-text{
+    ul.blog-unordered-list li.blog-list-item:first-child div.post-text{
       width: 100%;
       position: relative;
       float: none;
