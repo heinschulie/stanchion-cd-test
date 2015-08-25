@@ -53,7 +53,7 @@ Description: Product plugin for Batstone
         </h4>
       <?php endif; ?>
 
-      <img class="product-icon-small" src="http://localhost/stanchion/wp-content/uploads/2015/08/productsicon2.png" alt="Icon" />
+      <img class="product-icon-small" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/themes/stanchion/images/productsicon2.png" alt="Icon" />
 
       <h5 class="product-section-header">WHITE PAPERS</h5>
 
@@ -63,7 +63,7 @@ Description: Product plugin for Batstone
 		                $wp_query = new WP_Query(); 
                     $wp_query->query('showposts=7&tag=white-paper' . '&paged='.$paged);
 		                while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
-        <li class="blog-list-item">
+        <li class="product-blog-list-item">
           <a href=""
             <?php the_permalink(); ?>" title="Read more">
             <?php the_post_thumbnail(); ?>
@@ -91,7 +91,7 @@ Description: Product plugin for Batstone
         </h4>
       <?php endif; ?>
 
-      <img class="product-icon-small" src="http://localhost/stanchion/wp-content/uploads/2015/08/productsicon2.png" alt="Icon" />
+      <img class="product-icon-small" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/themes/stanchion/images/productsicon2.png" alt="Icon" />
 
       <h5 class="product-section-header">CASE STUDIES</h5>
 
@@ -101,7 +101,7 @@ Description: Product plugin for Batstone
 		          $wp_query = new WP_Query(); 
               $wp_query->query('showposts=7&tag=white-paper' . '&paged='.$paged);
 		          while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
-        <li class="blog-list-item">
+        <li class="product-blog-list-item">
           <a href=""
             <?php the_permalink(); ?>" title="Read more">
             <?php the_post_thumbnail(); ?>
