@@ -398,7 +398,7 @@ if ( get_option( 'show_on_front' ) == 'page' ) {
 					
 					<?php
 					
-						$zerif_contactus_title = get_theme_mod('zerif_contactus_title','GET IN TOUCH-!!!!!!!!!!!!!');
+						$zerif_contactus_title = get_theme_mod('zerif_contactus_title','GET IN TOUCH');
 						if ( !empty($zerif_contactus_title) ):
 							echo '<h5 class="stanchion-header">'.$zerif_contactus_title.'</h5>';
 						endif;
