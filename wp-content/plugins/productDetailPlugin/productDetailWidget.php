@@ -61,7 +61,7 @@ Description: Product plugin for Batstone
         <?php // Display blog posts on any page @ http://m0n.co/l
 		                $temp = $wp_query; $wp_query= null;
 		                $wp_query = new WP_Query(); 
-                    $wp_query->query('showposts=7&tag=white-paper' . '&paged='.$paged);
+                    $wp_query->query('showposts=7&tag=white-paper,the_title()' . '&paged='.$paged);
 		                while ($wp_query->have_posts()) : $wp_query->the_post(); ?>
         <li class="product-blog-list-item">
           <a href=""

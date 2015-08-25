@@ -5087,6 +5087,8 @@ img.product-icon-small{
 h5.product-section-header{
     color: rgb(235, 94, 0); 
     font-weight: bolder;
+    float: left;
+    margin: 20px 0;
 }
 
 /*Team Page*/ 
