@@ -5063,6 +5063,7 @@ h1.product-section-title{
 	padding-top: 0;
     color: rgb(235,94,0); 
     font-weight: bolder; 
+    float: left;
 }
 
 h2.product-section-slogan{
@@ -5073,8 +5074,14 @@ h2.product-section-slogan{
     font-weight: bolder; 
 }
 
+h4.product-section-description{
+    width: 100%;
+    text-align: left;
+}
+
 img.product-icon-small{
     width: 50px;
+    float: left;
 }
 
 h5.product-section-header{
