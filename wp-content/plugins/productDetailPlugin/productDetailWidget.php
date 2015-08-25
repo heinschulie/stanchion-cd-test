@@ -53,7 +53,8 @@ Description: Product plugin for Batstone
         </h4>
       <?php endif; ?>
 
-      <img class="product-icon-small" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/themes/stanchion/images/productsicon2.png" alt="Icon" />
+      <img class="product-icon-small" src="http://batstone-stanchiondev.azurewebsites.net/wp-content/themes/stanchion/images/stanchion/productsicon2.png" alt="Icon" />
+      <img class="left" src="<?php bloginfo('template_url'); ?>/images/stanchion/productsicon2.png" alt="Indians" height="100px" />
 
       <h5 class="product-section-header">WHITE PAPERS</h5>
 
